@@ -1,0 +1,1 @@
+# card-looter-idle
