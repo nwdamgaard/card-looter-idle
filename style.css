@@ -40,4 +40,6 @@ body {
 
 #selectedScreen {
     width: 100%;
+
+    border-style: none;
 }
