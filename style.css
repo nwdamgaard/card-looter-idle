@@ -37,3 +37,7 @@ body {
     display: flex;
     flex-direction: row;
 }
+
+#selectedScreen {
+    width: 100%;
+}
