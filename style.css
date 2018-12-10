@@ -24,6 +24,12 @@
     border-bottom-width: 1px;
 }
 
+.highlighted-screen {
+    border-right-color: blue;
+    border-right-width: 4px;
+    border-right-style: solid;
+}
+
 body {
     margin: 0;
 }
